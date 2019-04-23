@@ -2,8 +2,8 @@
   "status": 1,
   "data": {
     "appName": "Generator",
-    "versionCode": 2,
-    "versionName": "1.0.1",
+    "versionCode": 1,
+    "versionName": "1.0.0",
     "type": 1,
     "content": "测试333",
     "url": "https://github.com/Dkaishu/InfoFiles/blob/master/generator/apks/Generator_baiduRelease_1_1.0.0_20190422_132955.apk?raw=true",
